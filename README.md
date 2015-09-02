@@ -1,5 +1,3 @@
-Price Track
+Peer Help
 
-
-A location based price tracker for all goods in a retail stores.
-
+An organization based or group based users can share their resources(camera, tools), services and utilities among themselves.
